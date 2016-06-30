@@ -18,3 +18,4 @@ file {'/home/admin/.bash_login':
     content => 'rvm use ruby-2.0.0-p247 && echo "RVM configurado para utilizar a versao ruby-2.0.0-p247"'
 }
 
+asdfnabdfyasd fasd bfasdfasf

@@ -38,3 +38,4 @@ $ vagrant up dev_server
 A primeira vez que o comando é executado pode levar alguns minutos para concluir do download do Box.
 
 Para mais informações [Vagrant documentation](http://vagrantup.com/v1/docs/index.html).
+asdfasdf

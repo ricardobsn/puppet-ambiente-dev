@@ -28,3 +28,4 @@ package { ["libqt4-dev", "libjpeg-dev", "libpng-dev", "imagemagick"]:
   require  => Class['common::basic']
 }
 
+asdfhaishdfasdbfa sfdasf
